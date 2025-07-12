@@ -1,4 +1,3 @@
-markdown
 # KeepItClean
 
 Application Android développée en Java et Kotlin pour promouvoir la propreté et l'organisation.
