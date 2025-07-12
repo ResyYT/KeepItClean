@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1055832136884",
+    "firebase_url": "https://keepitclean-92a51-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "keepitclean-92a51",
+    "storage_bucket": "keepitclean-92a51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055832136884:android:754206b1a2dbed02c90be1",
+        "android_client_info": {
+          "package_name": "com.example.keepitclean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQ2eS4BZli91ujb2OqBO2-H6tPoVO4Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
